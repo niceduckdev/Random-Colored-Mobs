@@ -1,6 +1,0 @@
-name: random-colored-mobs
-version: '1.0-SNAPSHOT'
-main: niceduckdev.randomcoloredmobs.RandomColoredMobs
-api-version: 1.19
-authors: [ niceduckdev ]
-website: niceduckdev.xyz
