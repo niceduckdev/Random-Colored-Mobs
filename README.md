@@ -1,4 +1,4 @@
-# Random-Colored-Mobs
+# Random Colored Mobs
 A plugin that gives sheep and shulkers a random color
 
 ![2022-11-15_21 37 10](https://user-images.githubusercontent.com/66257784/202020519-44fe4c84-325b-4ce1-98ed-2203f6721046.png)
